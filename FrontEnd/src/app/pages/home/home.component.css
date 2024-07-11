@@ -1,0 +1,10 @@
+.container {
+    background-image: url("/assets/online-exam-software.jpg");
+    background-size: cover;
+    display: block;
+    white-space: nowrap;
+    width: 100%;
+    height: 75vh;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}

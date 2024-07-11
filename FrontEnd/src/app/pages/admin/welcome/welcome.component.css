@@ -1,0 +1,12 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.admin-panel {
+    height: 80vh; /* Full viewport height */
+    background-image: url("/assets/user-login.svg");
+    background-size: cover; /* Cover the entire container */
+    background-position: center; /* Center the image */
+}
